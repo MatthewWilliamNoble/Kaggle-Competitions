@@ -15,6 +15,7 @@ The competition is simple: use machine learning to create a model that predicts 
 Read on or watch the video below to explore more details. Once you’re ready to start competing, click on the ["Join Competition"](https://www.kaggle.com/c/titanic) button to create an account and gain access to the [competition data](https://www.kaggle.com/c/titanic/data). Then check out [Alexis Cook’s Titanic Tutorial](https://www.kaggle.com/alexisbcook/titanic-tutorial) that walks you through step by step how to make your first submission!
 
 [![Link to video.](https://img.youtube.com/vi/8yZMXCaFshs/0.jpg)](https://www.youtube.com/watch?v=8yZMXCaFshs&feature=youtu.be)
+
 **Link to Explanation Video.**
 
 ### The Challenge
@@ -65,13 +66,13 @@ Check out the ["Data"](https://www.kaggle.com/c/titanic/data) tab to explore the
 
 Once you’re ready to make a submission and get on the leaderboard:
 
-1. Click on the "Submit Predictions" button.
+**1. Click on the "Submit Predictions" button.**
 
-![screen 1](Images/Screen1.png)
+[![screen 1](Images/Screen1.png)]
 
-2. Upload a CSV file in the submission file format. You’re able to submit 10 submissions a day.
+**2. Upload a CSV file in the submission file format. You’re able to submit 10 submissions a day.**
 
-![screen 2](Images/Screen2.png)
+[![screen 2](Images/Screen2.png)]
 
 **Submission File Format:**
 
@@ -85,6 +86,7 @@ Survived (contains your binary predictions: 1 for survived, 0 for deceased)
 ### Got it! I’m ready to get started. Where do I get help if I need it?
 
 For Competition Help: [Titanic Discussion Forum](https://www.kaggle.com/c/titanic/discussion)
+
 Technical Help: [Kaggle Contact Us Page](https://www.kaggle.com/contact)
 
 Kaggle doesn’t have a dedicated support team so you’ll typically find that you receive a response more quickly by asking your question in the appropriate forum. The forums are full of useful information on the data, metric, and different approaches. We encourage you to use the forums often. If you share your knowledge, you'll find that others will share a lot in turn!
