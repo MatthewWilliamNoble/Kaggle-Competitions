@@ -14,7 +14,8 @@ The competition is simple: use machine learning to create a model that predicts 
 
 Read on or watch the video below to explore more details. Once you’re ready to start competing, click on the ["Join Competition"](https://www.kaggle.com/c/titanic) button to create an account and gain access to the [competition data](https://www.kaggle.com/c/titanic/data). Then check out [Alexis Cook’s Titanic Tutorial](https://www.kaggle.com/alexisbcook/titanic-tutorial) that walks you through step by step how to make your first submission!
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8yZMXCaFshs/0.jpg)](https://www.youtube.com/watch?v=8yZMXCaFshs&feature=youtu.be)
+[![Link to video.](https://img.youtube.com/vi/8yZMXCaFshs/0.jpg)](https://www.youtube.com/watch?v=8yZMXCaFshs&feature=youtu.be)
+**Link to Explanation Video.**
 
 ### The Challenge
 
@@ -66,4 +67,32 @@ Once you’re ready to make a submission and get on the leaderboard:
 
 1. Click on the "Submit Predictions" button.
 
-![Drag Racing](Dragster.jpg)
+![Screen 1](Images/Screen1.jpg)
+
+2. Upload a CSV file in the submission file format. You’re able to submit 10 submissions a day.
+
+![Screen 2](Images/Screen2.jpg)
+
+**Submission File Format:**
+
+You should submit a csv file with exactly 418 entries plus a header row. Your submission will show an error if you have extra columns (beyond PassengerId and Survived) or rows.
+
+The file should have exactly 2 columns:
+
+PassengerId (sorted in any order)
+Survived (contains your binary predictions: 1 for survived, 0 for deceased)
+
+### Got it! I’m ready to get started. Where do I get help if I need it?
+
+For Competition Help: [Titanic Discussion Forum](https://www.kaggle.com/c/titanic/discussion)
+Technical Help: [Kaggle Contact Us Page](https://www.kaggle.com/contact)
+
+Kaggle doesn’t have a dedicated support team so you’ll typically find that you receive a response more quickly by asking your question in the appropriate forum. The forums are full of useful information on the data, metric, and different approaches. We encourage you to use the forums often. If you share your knowledge, you'll find that others will share a lot in turn!
+
+### A Last Word on Kaggle Notebooks
+
+As we mentioned before, Kaggle Notebooks is our no-setup, customizable, Jupyter Notebooks environment with free GPUs and a huge repository of community published data & code.
+
+In every competition, you’ll find many Kernels publically shared with incredible insights. It’s an invaluable resource worth becoming familiar with. Check out this competition’s Kernel’s [here](https://www.kaggle.com/c/titanic/kernels).
+
+### 🏃‍♀Ready to Compete? [Join the Competition Here](https://www.kaggle.com/c/titanic)!
