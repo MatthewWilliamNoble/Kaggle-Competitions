@@ -16,7 +16,7 @@ Read on or watch the video below to explore more details. Once you’re ready to
 
 [![Link to video.](https://img.youtube.com/vi/8yZMXCaFshs/0.jpg)](https://www.youtube.com/watch?v=8yZMXCaFshs&feature=youtu.be)
 
-**Link to Explanation Video.**
+**Link to Explanation Video ☝️**
 
 ### The Challenge
 
@@ -68,11 +68,11 @@ Once you’re ready to make a submission and get on the leaderboard:
 
 **1. Click on the "Submit Predictions" button.**
 
-[![screen 1](Images/Screen1.png)]
+![screen 1](Images/screen1.png?raw=true)
 
 **2. Upload a CSV file in the submission file format. You’re able to submit 10 submissions a day.**
 
-[![screen 2](Images/Screen2.png)]
+![screen 2](Images/screen2.png?raw=true)
 
 **Submission File Format:**
 
