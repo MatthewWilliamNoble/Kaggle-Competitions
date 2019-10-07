@@ -2,6 +2,26 @@
 
 Start here! Predict survival on the Titanic and get familiar with ML basics
 
+## Contents
+
+### Datasets
+
+Directory. This contains the downloaded competition datasets, what are `train.csv`, `test.csv`, and `gender_submission.csv`.
+
+### Images
+
+Directory. This contains the images which are linked to in this `README.md`.
+
+### Notebooks 
+
+#### Exploratory Data Analysis - Titanic.ipynb
+
+Notebook. Dedicated notebook for exploratory data analysis.
+
+#### Submission Notebook - Titanic - Gen1.ipynb
+
+Notebook. First generation attempt at the challenge. Effectively a straight copy-pasta of Alexis Cook's Titanic Tutorial.
+
 ## Description
 
 [Source text](https://www.kaggle.com/c/titanic/overview/description)
