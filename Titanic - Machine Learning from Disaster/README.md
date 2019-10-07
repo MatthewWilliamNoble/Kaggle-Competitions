@@ -67,11 +67,11 @@ Once you’re ready to make a submission and get on the leaderboard:
 
 1. Click on the "Submit Predictions" button.
 
-![Screen 1](Images/Screen1.png)
+![screen 1](Images/Screen1.png)
 
 2. Upload a CSV file in the submission file format. You’re able to submit 10 submissions a day.
 
-![Screen 2](Images/Screen2.png)
+![screen 2](Images/Screen2.png)
 
 **Submission File Format:**
 
